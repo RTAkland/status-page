@@ -145,7 +145,7 @@ params:
   categories:
     - name: Services
       description: All services
-      closed: true
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
