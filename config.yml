@@ -240,7 +240,7 @@ params:
   #
   # Default: `yearly`
   # STRING; `monthly`, `yearly`, `none`
-  incidentHistoryFormat: "monthly"
+  incidentHistoryFormat: "none"
 
   # Should incident history be hidden?
   #
@@ -252,7 +252,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableIncidentHistory: false
+  disableIncidentHistory: true
 
   # Disable dark mode
   #
